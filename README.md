@@ -1,2 +1,3 @@
 # Demo-preject
-This is a demo Project
+This is a demo Project.
+I have started learning Git.
